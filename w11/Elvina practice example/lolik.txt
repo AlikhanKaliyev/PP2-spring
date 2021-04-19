@@ -1,1 +1,0 @@
-{"score": 0, "score1": 0, "speed": 2, "speed1": 2, "dx": 0, "dy": 2, "dx1": 0, "dy1": 2, "snake.elements": [[138, 304]], "snake1.elements1": [[462, 388]], "lolikta": 2, "size": 0, "size1": 0}
